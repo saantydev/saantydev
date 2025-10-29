@@ -1,6 +1,10 @@
+
+
+
+
 <div align="Center">
 
-  <img src="https://skillicons.dev/icons?i=kali" />
+  <img src="https://media1.tenor.com/m/7i38ifwvCxAAAAAC/anonymous-dedsec.gif" width=100% />
 
 <div align="center">
 
@@ -25,7 +29,7 @@
 
 | Website | Programming |
 | ------------- | ------------- |
-| <img src="https://skillicons.dev/icons?i=html,css,js,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github"/> |
+| <img src="https://skillicons.dev/icons?i=html,css,js,py,php"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,sublime,github"/> |
 
 </div>
 
