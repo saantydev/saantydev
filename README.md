@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/saantydev/saantydev/main/dedsec_logo.png" alt="DedSec Logo" width="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saantydev&show_icons=true&theme=monokai&hide_border=true&title_color=39FF14&icon_color=39FF14" alt="Estadísticas de saantydev" />
 </p>
 
 # 💻 SAANTYDEV // MANIFIESTO DEDSEC [HACK THE PLANET]
