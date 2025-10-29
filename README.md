@@ -73,7 +73,8 @@
 
 |‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
 | ----------|
-| <a href="mailto:saantydev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/santybernalconde"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  
+| <a href="mailto:saantydev@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> <a href="https://instagram.com/santybernalconde"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> <a href="https://www.linkedin.com/in/santiago-bernal-conde-60b4b9331‎"> ‎<img src="https://skillicons.dev/icons?i=linkedin"/> </a>
+
 </div>
 
 ------
