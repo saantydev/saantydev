@@ -1,6 +1,7 @@
 <div align="Center">
-<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
-
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,ts,js,python,django,php,mysql,kalilinux" />
+</p>
 <div align="center">
 
 <a href="https://github.com/saantydev">
