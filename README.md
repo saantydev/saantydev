@@ -1,6 +1,6 @@
 <div align="Center">
 
-  <img src="https://skillicons.dev/icons?ikali" />
+  <img src="https://skillicons.dev/icons?i=kali" />
 
 <div align="center">
 
@@ -13,7 +13,7 @@
 </div>
 
 
- Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
+ Programador y Desarrollador Full-Stack con interés en Cyberseguridad e Inteligencia Artificial. Actualmente cursando un programa de formación en Cyberseguridad y desarrollando aplicaciones con integración de IA.
 
 
 
