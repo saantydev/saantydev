@@ -1,7 +1,7 @@
 <div align="Center">
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,python,django,php,mysql,kalilinux" />
-</p>
+
+  <img src="https://skillicons.dev/icons?ikalilinux" />
+
 <div align="center">
 
 <a href="https://github.com/saantydev">
