@@ -1,6 +1,6 @@
 <div align="Center">
 
-  <img src="https://skillicons.dev/icons?ikalilinux" />
+  <img src="https://skillicons.dev/icons?ikali" />
 
 <div align="center">
 
