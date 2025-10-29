@@ -1,67 +1,79 @@
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saantydev&show_icons=true&theme=monokai&hide_border=true&title_color=39FF14&icon_color=39FF14" alt="Estadísticas de saantydev" />
-</p>
+<div align="Center">
+<img width="100" src="https://github.com/user-attachments/assets/fae54e71-c962-4868-ad16-f727a0593d00" />
 
-# 💻 SAANTYDEV // MANIFIESTO DEDSEC [HACK THE PLANET]
+<div align="center">
 
-> **STATUS:** ONLINE // Operador: Junior Full-Stack + CyberSec Apprentice.
-> **TARGET:** Innovación, Disrupción y Eficiencia.
-> **KCAL LIMIT:** 1500 (Protocolo Activo)
+<a href="https://github.com/saantydev">
+<img src="https://github.com/user-attachments/assets/77f249fa-d3bf-4ece-aad2-7fe374d1217f" />
+</a>
 
----
+[![GitHub Followers](https://img.shields.io/github/followers/saantydev?label=Follow&style=social)](https://github.com/saantydev)
+[![GitHub Stars](https://img.shields.io/github/stars/saantydev?style=social)](https://github.com/saantydev)
+</div>
 
-## 🧠 SYNOPSIS // PERFIL DE OPERADOR
 
-Estás en la terminal de **`saantydev`**, un operador **Junior Full-Stack** que incursiona en el *bug* del sistema: la **ciberseguridad**.
+🌱 Currently immersed in the world of **Arch Linux**, fascinated by the sleekness of **Hyprland**, and always on the lookout for inspiring **Dotfiles** like **HyDE**, **HyprLuna**, and **End-4 dots**.
 
-Aquí no solo se crean aplicaciones; se **hackea la realidad** digital. Mi código es mi arma, y mi objetivo es la **solución de problemas complejos** y la **disrupción constructiva** utilizando la tecnología más avanzada.
+💻 Passionately building an **Arch Installer** project. 
 
----
 
-## 🛠️ STACK TECNOLÓGICO // ARSENAL DE INFILTRACIÓN
+<div align="Center">
+<h1>Skills</h1>
+</div>
 
-Mi arsenal tecnológico me permite operar tanto en el *frontend* (interfaz y experiencia) como en el *backend* (lógica y datos), garantizando soluciones completas y robustas.
+<div align="Center">
 
-| Área | Tecnologías Clave | Protocolos |
-| :--- | :--- | :--- |
-| **Frontend** | **React**, **TypeScript**, **JavaScript**, HTML5, CSS3 | CI/CD |
-| **Backend** | **Python** (**Django**), **PHP** | REST/MVC |
-| **Persistencia** | **MySQL** | SQL |
-| **Control** | Git (GitHub) | Versioning |
+| Website | Programming |
+| ------------- | ------------- |
+| <img src="https://skillicons.dev/icons?i=html,css,js,sass,py"/> | <img src="https://skillicons.dev/icons?i=bash,vscode,vscodium,sublime,github"/> |
 
----
-
-## 📂 PROYECTOS DESTACADOS // ARCHIVOS DE OPERACIONES
-
-Estos son algunos de los archivos y operaciones más relevantes que demuestran mis capacidades y ambición.
-
-### 🤖 **VULN-SCAN-AI** // Algoritmo 0xAI [PROJECT PRIORITY: HIGH]
-* **Tipo:** Proyecto con IA / Full-Stack.
-* **Descripción:** Un sistema que utiliza **Inteligencia Artificial** para analizar repositorios de código y generar reportes preliminares de vulnerabilidades web (basado en OWASP Top 10). Demuestra mi habilidad para integrar modelos de **Python** con una interfaz **React** funcional.
-* **Tecnologías:** **Python**, Librerías de ML, **React**, API REST.
-
-### 🌐 **[Nombre de tu Proyecto Web Principal]** // La Red Infiltrada
-* **Tipo:** Aplicación Full-Stack.
-* **Descripción:** Una aplicación [Menciona brevemente su función, ej.: sistema de gestión de microservicios o plataforma de contenido dinámico]. Muestra el manejo integral del stack, desde la base de datos (**MySQL**) hasta el despliegue del cliente.
-* **Tecnologías:** **React**, **Django/PHP**, **MySQL**.
-
----
-
-## 🛡️ ENFOQUE ADICIONAL // CYBERSEC - AUDITORÍA ÉTICA
-
-El desarrollo moderno requiere una mentalidad de seguridad por diseño (*Security by Design*). Estoy activamente inmerso en el estudio de:
-
-* **Hacking Ético:** Metodologías de Pentesting y evaluación de riesgos.
-* **Vulnerabilidades:** Profundo conocimiento del **OWASP Top 10**.
-* **Seguridad Web:** Prevención de Inyección SQL, XSS, CSRF en entornos PHP y Django.
-
----
-
-## ➡️ CONEXIÓN // ÚNETE A LA CAUSA
-
-Si compartes la visión de un ecosistema digital abierto, seguro, y te interesa la programación eficiente y la ciberseguridad, ¡**contáctame y colabora**!
-
-> **_“Somos el firewall que la red necesita. Somos DedSec.”_**
+</div>
 
 <br>
-<hr>
+<br>
+<br>
+
+<div align="Center">
+<h1>Operating Systems</h1>
+
+<img src="https://skillicons.dev/icons?i=windows,arch,linux,mint,ubuntu"/>
+
+</div>
+
+<br>
+<br>
+
+| Snake Eating Contributions in the last year |
+| ------------------------------------------|
+| ![snakkeee](https://github.com/user-attachments/assets/767354e9-fe1e-4009-b421-2f49388bfda5) | 
+
+
+
+<div align="Center">
+
+| saantydev's Stats | Ultimate Streak |
+| ------------- | ------------- |
+| ![saantydev's Stats](https://github-readme-stats.vercel.app/api?username=saantydev&theme=onedark&show_icons=true&hide_border=true&count_private=true)  | ![saantydev's Streak](https://github-readme-streak-stats.herokuapp.com/?user=saantydev&theme=onedark&hide_border=true) 
+
+| Most Lang |
+| ----------|
+| ![saantydev's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saantydev&theme=onedark&show_icons=true&hide_border=true&layout=compact) |
+
+
+</div>
+
+<br>
+<br>
+
+<div align="Center">
+
+|‎ ‎ ‎ ‎ Contacts‎ ‎ ‎ ‎ |
+| ----------|
+| <a href="mailto:lorenceisidoro@gmail.com"> <img src="https://skillicons.dev/icons?i=gmail"/> </a> ‎ ‎ ‎ ‎  <a href="https://instagram.com/xir.rence"> <img src="https://skillicons.dev/icons?i=instagram"/> </a> ‎ ‎ ‎ ‎  <a href="[https://instagram.com/xir.rence](https://discord.com/users/729473858179956859)"> <img src="https://skillicons.dev/icons?i=discord"/> </a> |
+
+</div>
+
+------
+
+Credit: [saantydev](https://github.com/saantydev)
+Last Edited on: 12/04/2005
